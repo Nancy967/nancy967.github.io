@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Nancy&#39;s blog</title>
+    <link>https://nancy967.github.io/tags/</link>
+    <description>Recent content in Tags on Nancy&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 03 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nancy967.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aquarium</title>
+      <link>https://nancy967.github.io/tags/aquarium/</link>
+      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nancy967.github.io/tags/aquarium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photo Post-processing</title>
+      <link>https://nancy967.github.io/tags/photo-post-processing/</link>
+      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nancy967.github.io/tags/photo-post-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recipe Cooking</title>
+      <link>https://nancy967.github.io/tags/recipe-cooking/</link>
+      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nancy967.github.io/tags/recipe-cooking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rural Fields</title>
+      <link>https://nancy967.github.io/tags/rural-fields/</link>
+      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nancy967.github.io/tags/rural-fields/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-lapse Photography</title>
+      <link>https://nancy967.github.io/tags/time-lapse-photography/</link>
+      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nancy967.github.io/tags/time-lapse-photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video Editing</title>
+      <link>https://nancy967.github.io/tags/video-editing/</link>
+      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nancy967.github.io/tags/video-editing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

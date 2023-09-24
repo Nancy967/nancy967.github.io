@@ -1,0 +1,27 @@
+body.theme-default {
+  background-color: #ffffff;
+}
+body.theme-default .title {
+  color: firebrick;
+}
+body.theme-default .main {
+  color: black;
+}
+body.theme-default .sub {
+  color: grey;
+}
+body.theme-default .post-tag,
+body.theme-default .post-category {
+  color: blue;
+}
+body.theme-default :not(.highlight) > * > code {
+  background-color: #cfd8dc;
+  color: #263238;
+}
+body.theme-default ul.pagination li.page-item {
+  color: black;
+}
+body.theme-default ul.pagination li.page-item.active {
+    color: firebrick;
+    background-color: #fff;
+}
