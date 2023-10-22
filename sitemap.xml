@@ -2,49 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nancy967.github.io/archives/2023/</loc>
+    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nancy967.github.io/archives/2023-10/</loc>
+    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nancy967.github.io/archives/</loc>
+    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nancy967.github.io/categories/</loc>
+    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nancy967.github.io/tags/etherscan/</loc>
+    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nancy967.github.io/tags/goerlieth/</loc>
+    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nancy967.github.io/</loc>
+    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nancy967.github.io/post/</loc>
+    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nancy967.github.io/tags/</loc>
+    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nancy967.github.io/post/blockchain-metamask/</loc>
+    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nancy967.github.io/categories/%E5%8D%80%E5%A1%8A%E9%8F%88%E5%85%A5%E9%96%80%E8%88%87%E6%87%89%E7%94%A8/</loc>
+    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nancy967.github.io/tags/impress/</loc>
+    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nancy967.github.io/tags/libreoffice/</loc>
+    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nancy967.github.io/categories/odf%E9%96%8B%E6%94%BE%E5%BC%8F%E7%B0%A1%E5%A0%B1%E8%BB%9F%E9%AB%94%E6%87%89%E7%94%A8/</loc>
+    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nancy967.github.io/post/odf-libreoffice-impress/</loc>
+    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nancy967.github.io/about/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nancy967.github.io/archives/2023/</loc>
-    <lastmod>2023-08-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nancy967.github.io/archives/2023-08/</loc>
     <lastmod>2023-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nancy967.github.io/tags/aquarium/</loc>
-    <lastmod>2023-08-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nancy967.github.io/archives/</loc>
-    <lastmod>2023-08-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nancy967.github.io/categories/</loc>
-    <lastmod>2023-08-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nancy967.github.io/categories/multimedia-editing-and-production/</loc>
-    <lastmod>2023-08-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nancy967.github.io/</loc>
-    <lastmod>2023-08-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nancy967.github.io/tags/photo-post-processing/</loc>
-    <lastmod>2023-08-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nancy967.github.io/post/</loc>
-    <lastmod>2023-08-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nancy967.github.io/tags/recipe-cooking/</loc>
-    <lastmod>2023-08-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nancy967.github.io/tags/rural-fields/</loc>
-    <lastmod>2023-08-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nancy967.github.io/tags/</loc>
-    <lastmod>2023-08-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nancy967.github.io/tags/time-lapse-photography/</loc>
-    <lastmod>2023-08-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nancy967.github.io/tags/video-editing/</loc>
+    <loc>https://nancy967.github.io/categories/%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E5%A4%9A%E5%AA%92%E9%AB%94%E5%89%AA%E8%BC%AF%E8%88%87%E8%A3%BD%E4%BD%9C/</loc>
     <lastmod>2023-08-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nancy967.github.io/post/multimedia-photo/</loc>
@@ -54,6 +63,15 @@
     <lastmod>2023-08-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nancy967.github.io/post/multimedia-video/</loc>
+    <lastmod>2023-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nancy967.github.io/tags/%E5%9C%96%E7%89%87%E5%BE%8C%E8%A3%BD/</loc>
+    <lastmod>2023-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nancy967.github.io/tags/%E5%BD%B1%E7%89%87%E5%89%AA%E8%BC%AF/</loc>
+    <lastmod>2023-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nancy967.github.io/tags/%E7%B8%AE%E6%99%82%E6%94%9D%E5%BD%B1/</loc>
     <lastmod>2023-08-03T00:00:00+00:00</lastmod>
   </url>
 </urlset>
