@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EtherScan on Nancy&#39;s blog</title>
-    <link>https://nancy967.github.io/tags/etherscan/</link>
+    <link>https://nancy967.xyz/tags/etherscan/</link>
     <description>Recent content in EtherScan on Nancy&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sat, 21 Oct 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nancy967.github.io/tags/etherscan/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nancy967.xyz/tags/etherscan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>狐狸錢包練習</title>
-      <link>https://nancy967.github.io/post/blockchain-metamask/</link>
+      <link>https://nancy967.xyz/post/blockchain-metamask/</link>
       <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://nancy967.github.io/post/blockchain-metamask/</guid>
+      <guid>https://nancy967.xyz/post/blockchain-metamask/</guid>
       <description> 錢包地址 : 0xa39a71dcD42466bA7dda5112C9E76f9E54379807&#xA;取得 GoerliETH 的方法來源 :&#xA;透過Goerli PoW Faucet，一個供應GoerliETH測試網絡代幣的水龍頭服務，獲取GoerliETH。該水龍頭使用Proof of Work（PoW）工作證明來分發GoerliETH，讓開發者和測試者能夠獲取測試用以太坊代幣以支援應用程式開發和測試。&#xA;透過 EtherScan 佐證與說明轉帳 GoerliETH 的結果&#xA;Transaction Hash:0x5dd8db770207fb1a9cf06edc5f3bc316335ff2c0a0bb9a4b89aee15332a054a3 Status: Success Block: 9727767 (179064 Block Confirmations) Timestamp: 31 days 6 hrs ago (Sep-20-2023 11:13:24 AM +UTC) From: 0xa39a71dcD42466bA7dda5112C9E76f9E54379807 To: 0xcae1a14D15FA6C4198f851E57cB37bf8d03a03cc Value: 0.01 ETH ($0.00) Transaction Fee: 0.000031500000273 ETH $0.00 Gas Price: 1.500000013 Gwei (0.000000001500000013 ETH) </description>
     </item>
   </channel>
