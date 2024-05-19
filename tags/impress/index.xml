@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Impress on Nancy&#39;s blog</title>
-    <link>https://nancy967.github.io/tags/impress/</link>
+    <link>https://nancy967.xyz/tags/impress/</link>
     <description>Recent content in Impress on Nancy&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nancy967.github.io/tags/impress/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://nancy967.xyz/tags/impress/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>台灣各民族各菜系</title>
-      <link>https://nancy967.github.io/post/odf-libreoffice-impress/</link>
+      <link>https://nancy967.xyz/post/odf-libreoffice-impress/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nancy967.github.io/post/odf-libreoffice-impress/</guid>
-      <description></description>
+      <guid>https://nancy967.xyz/post/odf-libreoffice-impress/</guid>
+      <description>自由軟體&#xA;自由軟體通常包括一些特點：&#xA;自由使用權 自由研究權（可以查看軟體的源代碼，以理解其內部工作方式） 自由散布權（以便分享和協作） 自由修改權（修改軟體的源代碼，以滿足特定需求） 自由軟體有哪些？例如：&#xA;GNU/Linux ：操作系統，由Linux核心（kernel）和GNU工具組成。 Apache：網頁伺服器，用於託管網站和應用程序。 Mozilla Firefox：網頁瀏覽器，提供了高度可定制性和擴展性。 LibreOffice：辦公軟體套件，包括文字處理、試算表、演示等。 GIMP：圖像處理軟體，類似於Adobe Photoshop。 Audacity：音頻編輯軟體，用於錄音和編輯音樂和聲音文件。 WordPress：內容管理系統（CMS），用於建立和管理網站和部落格。 Mozilla Thunderbird：電子郵件客戶端，用於管理電子郵件和通訊。 心得&#xA;對於一般使用者，如果只是使用軟體來完成特定任務，而不需要查看、修改或重新分發軟體，那麼軟體的源代碼是否公開可能並不是非常重要。大多數用戶只需確保軟體能夠正確地執行其預期的功能。 對於某些專業和技術用戶，能夠查看和修改軟體源代碼可能非常重要。這些用戶可能需要自定義軟體以滿足其特定需求，或者可能希望深入研究軟體的工作方式，開源軟體提供了更多的自由度和控制權。 開源軟體的一個優勢是它有助於確保數據的長期可存取性。如果軟體封閉且供應商停止支援，那麼數據可能難以取得。開源軟體可以通過確保軟體的持續支援和修改，提供更長期的數據可用性。 LibreOffice相關探討&#xA;LibreOffice 是一個免費的開源辦公軟體套件，它提供了多種功能，包括文字處理、試算表、演示、繪圖、數學公式編輯、資料庫管理等。LibreOffice 開源性質可以自由下載和使用、跨平台支援（Windows、macOS、Linux）、擁有多語言支援、強調標準化的開放文件格式（ODF）等。雖然 LibreOffice 可以讀取和編輯 Microsoft Office 格式的文件，但某些複雜的格式和功能可能無法完全保留或支援，導致在轉換文件時可能會出現格式錯誤。在某些科學或工程應用中，可能需要 Microsoft Excel 的特殊功能或插件，這些功能在 LibreOffice 中可能不可用。許多政府機構、學術機構、非營利組織和小型企業都使用 LibreOffice 來滿足辦公需求，特別是強調成本效益、跨平台支援、或希望支持開源軟體的組織。&#xA;簡報內容pdf文字檔(講義模式、備註投影片)&#xA;https://drive.google.com/file/d/1TxQtXPKbRhPeFXypNBlMthiJUGTzYKGd/view?usp=sharing&#xA;簡報成果如下：</description>
     </item>
-    
   </channel>
 </rss>
