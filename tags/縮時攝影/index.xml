@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>縮時攝影 on Nancy&#39;s blog</title>
-    <link>https://nancy967.xyz/tags/%E7%B8%AE%E6%99%82%E6%94%9D%E5%BD%B1/</link>
+    <link>https://nancy967.github.io/tags/%E7%B8%AE%E6%99%82%E6%94%9D%E5%BD%B1/</link>
     <description>Recent content in 縮時攝影 on Nancy&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Thu, 03 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nancy967.xyz/tags/%E7%B8%AE%E6%99%82%E6%94%9D%E5%BD%B1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nancy967.github.io/tags/%E7%B8%AE%E6%99%82%E6%94%9D%E5%BD%B1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>魚兒魚兒水中游</title>
-      <link>https://nancy967.xyz/post/multimedia-time-lapse/</link>
+      <link>https://nancy967.github.io/post/multimedia-time-lapse/</link>
       <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://nancy967.xyz/post/multimedia-time-lapse/</guid>
+      <guid>https://nancy967.github.io/post/multimedia-time-lapse/</guid>
       <description>器材與規格：&#xA;使用智慧型手機，相機像素為12MP 拍攝及製作方法：&#xA;拍攝場景：選擇一個有趣且具有變化的場景，例如動植物生活空間 設定手機：在手機相機設定中找到縮時攝影功能，設定縮時攝影的時間間隔和拍攝時間長度 例如，設定每隔 1 秒拍攝二十張照片，總共拍攝 8 秒的影片 開始拍攝：按下拍攝按鈕，手機將按照設定的時間間隔自動拍攝照片，形成一段縮時影片 儲存與分享：將縮時影片儲存至手機相簿，再上傳到雲端硬碟進行分享 以下是縮時攝影影片：</description>
     </item>
   </channel>

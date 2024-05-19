@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2023-10 on Nancy&#39;s blog</title>
-    <link>https://nancy967.xyz/archives/2023-10/</link>
+    <link>https://nancy967.github.io/archives/2023-10/</link>
     <description>Recent content in 2023-10 on Nancy&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sat, 21 Oct 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nancy967.xyz/archives/2023-10/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nancy967.github.io/archives/2023-10/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>狐狸錢包練習</title>
-      <link>https://nancy967.xyz/post/blockchain-metamask/</link>
+      <link>https://nancy967.github.io/post/blockchain-metamask/</link>
       <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://nancy967.xyz/post/blockchain-metamask/</guid>
+      <guid>https://nancy967.github.io/post/blockchain-metamask/</guid>
       <description> 錢包地址 : 0xa39a71dcD42466bA7dda5112C9E76f9E54379807&#xA;取得 GoerliETH 的方法來源 :&#xA;透過Goerli PoW Faucet，一個供應GoerliETH測試網絡代幣的水龍頭服務，獲取GoerliETH。該水龍頭使用Proof of Work（PoW）工作證明來分發GoerliETH，讓開發者和測試者能夠獲取測試用以太坊代幣以支援應用程式開發和測試。&#xA;透過 EtherScan 佐證與說明轉帳 GoerliETH 的結果&#xA;Transaction Hash:0x5dd8db770207fb1a9cf06edc5f3bc316335ff2c0a0bb9a4b89aee15332a054a3 Status: Success Block: 9727767 (179064 Block Confirmations) Timestamp: 31 days 6 hrs ago (Sep-20-2023 11:13:24 AM +UTC) From: 0xa39a71dcD42466bA7dda5112C9E76f9E54379807 To: 0xcae1a14D15FA6C4198f851E57cB37bf8d03a03cc Value: 0.01 ETH ($0.00) Transaction Fee: 0.000031500000273 ETH $0.00 Gas Price: 1.500000013 Gwei (0.000000001500000013 ETH) </description>
     </item>
     <item>
       <title>台灣各民族各菜系</title>
-      <link>https://nancy967.xyz/post/odf-libreoffice-impress/</link>
+      <link>https://nancy967.github.io/post/odf-libreoffice-impress/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://nancy967.xyz/post/odf-libreoffice-impress/</guid>
+      <guid>https://nancy967.github.io/post/odf-libreoffice-impress/</guid>
       <description>自由軟體&#xA;自由軟體通常包括一些特點：&#xA;自由使用權 自由研究權（可以查看軟體的源代碼，以理解其內部工作方式） 自由散布權（以便分享和協作） 自由修改權（修改軟體的源代碼，以滿足特定需求） 自由軟體有哪些？例如：&#xA;GNU/Linux ：操作系統，由Linux核心（kernel）和GNU工具組成。 Apache：網頁伺服器，用於託管網站和應用程序。 Mozilla Firefox：網頁瀏覽器，提供了高度可定制性和擴展性。 LibreOffice：辦公軟體套件，包括文字處理、試算表、演示等。 GIMP：圖像處理軟體，類似於Adobe Photoshop。 Audacity：音頻編輯軟體，用於錄音和編輯音樂和聲音文件。 WordPress：內容管理系統（CMS），用於建立和管理網站和部落格。 Mozilla Thunderbird：電子郵件客戶端，用於管理電子郵件和通訊。 心得&#xA;對於一般使用者，如果只是使用軟體來完成特定任務，而不需要查看、修改或重新分發軟體，那麼軟體的源代碼是否公開可能並不是非常重要。大多數用戶只需確保軟體能夠正確地執行其預期的功能。 對於某些專業和技術用戶，能夠查看和修改軟體源代碼可能非常重要。這些用戶可能需要自定義軟體以滿足其特定需求，或者可能希望深入研究軟體的工作方式，開源軟體提供了更多的自由度和控制權。 開源軟體的一個優勢是它有助於確保數據的長期可存取性。如果軟體封閉且供應商停止支援，那麼數據可能難以取得。開源軟體可以通過確保軟體的持續支援和修改，提供更長期的數據可用性。 LibreOffice相關探討&#xA;LibreOffice 是一個免費的開源辦公軟體套件，它提供了多種功能，包括文字處理、試算表、演示、繪圖、數學公式編輯、資料庫管理等。LibreOffice 開源性質可以自由下載和使用、跨平台支援（Windows、macOS、Linux）、擁有多語言支援、強調標準化的開放文件格式（ODF）等。雖然 LibreOffice 可以讀取和編輯 Microsoft Office 格式的文件，但某些複雜的格式和功能可能無法完全保留或支援，導致在轉換文件時可能會出現格式錯誤。在某些科學或工程應用中，可能需要 Microsoft Excel 的特殊功能或插件，這些功能在 LibreOffice 中可能不可用。許多政府機構、學術機構、非營利組織和小型企業都使用 LibreOffice 來滿足辦公需求，特別是強調成本效益、跨平台支援、或希望支持開源軟體的組織。&#xA;簡報內容pdf文字檔(講義模式、備註投影片)&#xA;https://drive.google.com/file/d/1TxQtXPKbRhPeFXypNBlMthiJUGTzYKGd/view?usp=sharing&#xA;簡報成果如下：</description>
     </item>
   </channel>
